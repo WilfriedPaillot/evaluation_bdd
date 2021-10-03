@@ -1,0 +1,1 @@
+mysqldump -u root -p wp_evalbdd > backup_bdd.sql
